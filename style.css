@@ -1,0 +1,134 @@
+html {
+	font-size: 100%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: steelblue;
+}
+
+h1 {
+	text-align: center;
+	background-color: mintcream;
+	border: solid;
+}
+
+#hello {
+	display: inline-block;
+	background-color: honeydew;
+	border-radius: 15%;
+	padding: 4px;
+}
+
+a {
+	text-decoration: none;
+	color: honeydew;
+	background-color: steelblue; 
+	border: solid;
+	border-radius: 15%;
+	padding: 4px;
+}
+
+.contents {
+	display: inline-block;
+	background-color: darkturquoise;
+	border: solid;
+	border-radius: 7%;
+	padding: 10px;
+	margin: 20px;
+}
+
+li {
+	margin: 18px;
+}
+
+.in-out {
+	margin: 20px;
+	padding: 10px 10px;
+	border: solid;
+	background-color: aliceblue;
+}
+
+.headin {
+	text-align: center;
+	background-color: skyblue;
+	margin-right: 30%;
+	margin-left: 30%;
+	padding: 10px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 1.5rem;
+}
+
+section {
+	margin: 20px;
+}
+
+.block {
+	background-color: snow;
+	border-radius: 10%;
+	padding: 15px 40px;
+	padding-bottom: 45px;
+	border: solid;
+	border-color: midnightblue;
+}
+
+table {
+	text-align: center;
+	border: solid;
+	background-color: aliceblue;
+}
+caption {
+	border: solid;
+	background-color: aliceblue;
+}
+
+td, th {
+	border: solid;
+}
+
+.return {
+	position: absolute;
+	left: 44%;
+	margin-top: 5px;
+}
+
+.feedback {
+	text-align: center;
+	background-color: powderblue;
+	border: solid;
+	border-color: indigo;
+	border-radius: 10%;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding: 10px;
+	font-size: 1rem;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+#fbhead {
+	margin-right: 40%;
+	margin-left: 40%;
+	border-radius: 30%;
+}
+
+.button {
+	text-align: center;
+}
+
+.logo {
+	position: absolute;
+	right: 20px;
+	top: 100px;
+	border-radius: 20%;
+}
+
+.perspective {
+	float: left;
+}
+
+.light {
+	float: left;
+	margin: 15px 30px;
+}
+
+.text-light {
+	border-top: solid;
+	padding-top: 15px;
+}
